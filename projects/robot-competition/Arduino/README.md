@@ -3,7 +3,6 @@
 This folder contains the Arduino code used for the robot project.
 
 ## Files Included
-
 - [Final Competition Code](MAE3783RobotFinal.ino)  
   Main Arduino code used during the robot competition.
 
