@@ -4,8 +4,11 @@ This folder contains the Arduino code used for the robot project.
 
 ## Files Included
 
-- **Final competition code**: Main code used during the robot competition.
-- **QTI threshold test code**: Test code used to measure and tune the QTI sensor threshold values for detecting the black border.
+- [Final Competition Code](MAE3783RobotFinal.ino)  
+  Main Arduino code used during the robot competition.
+
+- [QTI Threshold Test Code](QTIThresholdTest.ino)  
+  Test code used to measure and tune the QTI sensor threshold values for detecting the black border.
 
 ## Purpose
 
