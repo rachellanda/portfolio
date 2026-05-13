@@ -10,12 +10,12 @@
   <h2>Projects</h2>
 
   <h3>Cube Collecting Robot with QTI Border Detection</h3>
-  <p>Designed a robot for the MAE 3780 Cube Craze Competition using QTI sensor border detection and continuous rotation servos for driving. This robot is Arduino controlled</p>
+  <p>Designed a robot for the MAE 3780 Cube Craze Competition using QTI sensor border detection and continuous rotation servos for driving. This robot is Arduino controlled.</p>
 
   <h2>Skills</h2>
-  <p>C, Python, Arduino, ROS 2, MATLAB, COMSOL, Cadence, Fusion 360</p>
+  <p>C++, Python, Arduino, MATLAB, SolidWorks, Fusion 360</p>
 
   <h2>Contact</h2>
-  <p>Email: your-email@example.com</p>
+  <p>Email: rachelslanda@gmail.com</p>
 </body>
 </html>
