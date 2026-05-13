@@ -4,8 +4,11 @@ This folder contains the CAD files for the robot design.
 
 ## Files Included
 
-- **Assembly file**: Full robot assembly showing how the main components fit together.
-- **Chassis STEP file**: Exported chassis model for easier viewing and sharing across CAD programs.
+- [Full Robot Assembly](boe-bot.SLDASM)  
+  SolidWorks assembly file showing how the main robot components fit together.
+
+- [Chassis STEP File](Part1%5Eboe-bot.STE)  
+  Exported chassis model for easier viewing and sharing across CAD programs.
 
 ## Purpose
 
